@@ -1,0 +1,1 @@
+Contents of my-demo-repo consist of code from https://docs.aws.amazon.com/codepipeline/latest/userguide/tutorials-simple-codecommit.html
